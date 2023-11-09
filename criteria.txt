@@ -1,0 +1,17 @@
+Visual search is facilitated by stimuli that abruptly appear in a display.  That is, if a stimulus in a display appears abruptly, it captures attention.  The issue is whether that capture is automatic.  Automaticity can be defined by two criteria:  One criterion is that the time to detect a target in visual search is largely not influenced by perceptual or cognitive load. The second criterion is that an intention to avoid turning attention to an abrupt item is ineffective.
+ 
+A study is relevant if it meets the following criteria:
+ 
+It is written in English.
+It is about visual search.
+It must include a manipulation of either (1) perceptual or cognitive load, or (2) intention, as defined below; alternatively, it must be a review article of other studies with such manipulations.
+ 
+“Load” is a mental demand placed on an individual when performing a task. Perceptual load refers to the amount of sensory information and the complexity of that information. Cognitive load refers to the mental effort or cognitive resources required to complete a task.
+ 
+A non-exhaustive list of keywords for perceptual load: “perceptual load”, “the number of search items”, “the number of items”, “set size”, “display size”, etc. 
+ 
+A non-exhaustive list of keywords for cognitive load: “cognitive load”, “mental effort”, “cognitive demand”, “task demand”, “working memory load”, “memory load”.
+ 
+Intention refers to participants’ goal when performing a task. A non-exhaustive list of keywords for intention: “intention”, “cue”, “goal”.
+
+

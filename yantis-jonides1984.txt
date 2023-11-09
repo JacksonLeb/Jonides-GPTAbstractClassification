@@ -1,0 +1,11 @@
+The effect of temporal discontinuity on visual search was assessed by presenting
+a display in which one item had an abrupt onset, while other items were
+introduced by gradually removing line segments that camouflaged them. We
+hypothesized that an abrupt onset in a visual display would capture visual
+attention, giving this item a processing advantage over items lacking an abrupt
+leading edge. This prediction was confirmed in Experiment 1. We designed a
+second experiment to ensure that this finding was due to attentional factors rather
+than to sensory or perceptual ones. Experiment 3 replicated Experiment 1 and
+demonstrated that the procedure used to avoid abrupt onset—camouflage re-
+moval—did not require a gradual waveform. Implications of these findings for
+theories of attention are discussed.
